@@ -7,11 +7,11 @@ and install these in your emulator or Android device of choice to try out the ex
 
 Background on this series:
 
-This four part article series introduces Google's App Inventor for Android tool, shows you how to access web
-APIs including Yahoo's PlaceFinder geocoding service and the eBay developer APIs, and provides example
-applications including source illustrating how to construct these applications yourself.  Examples included
-in the articles are constructed visually in App Inventor and may be deployed into the Android emulator
-as well as Android hardware devices.
+This four part article series introduces Google's App Inventor for Android tool, shows you how to
+access web APIs including Yahoo's PlaceFinder geocoding service and the eBay developer APIs, and
+provides example apps including source illustrating how to construct these applications yourself.
+The articles walk the reader through using App Inventor to visually construct and test deploy
+applications in the Android emulator.  The apps may also be deployed into real Android devices.
 
 For more information, please refer to the articles on the X.com site.
 
