@@ -1,8 +1,9 @@
-The App Inventor for Android ZIP archives in this project can be used to access and modify the example
-Android web API and commerce applications discussed in the PayPal X.com DevZone article series
-"X.commerce Android Apps the Easy Way".  I have also included packaged Android applications (APK files)
-for each application; you can download and install these in your emulator or Android device of choice
-to try out the example apps yourself.
+The App Inventor for Android ZIP archives available for download from this project can be used to 
+access and modify the example Android web API and commerce applications discussed in the 
+PayPal X.com DevZone article series "X.commerce Android Apps the Easy Way".
+
+I have also included packaged Android applications (APK files) for each application; you can download
+and install these in your emulator or Android device of choice to try out the example apps yourself.
 
 Background on this series:
 
